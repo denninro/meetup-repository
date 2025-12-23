@@ -2,3 +2,5 @@ streamlit
 googlemaps
 pydeck
 pandas
+streamlit-searchbox
+streamlit-js-eval
